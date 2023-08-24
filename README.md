@@ -1,16 +1,3 @@
-# assignment_14
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![a14 1](https://github.com/fakhruddin07/assignment_14/assets/76893206/cba7ed8d-d560-4413-bd52-097785514c5d)
+![a14 2](https://github.com/fakhruddin07/assignment_14/assets/76893206/d6c21f29-95b7-4b16-b2a9-3ad9467adddb)
+![a14 3](https://github.com/fakhruddin07/assignment_14/assets/76893206/e860678c-3022-4438-92dd-39f6fdb2c961)
